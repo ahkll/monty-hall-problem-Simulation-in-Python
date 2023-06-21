@@ -14,7 +14,7 @@ In this source code I have simulated this problem using random module to simulat
 # Getting started
 
 To get started running the simulation for this code, you might wanna clone or download the repository first just as shown below;
-
+https://github.com/ahkll/monty-hall-problem-Simulation-in-Python/blob/main/app.py
 
 
 # Open terminal in a project directory
