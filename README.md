@@ -11,3 +11,29 @@ Now the battle lies Emotion vs Math, mathematically switching would give you a 2
 
 In this source code I have simulated this problem using random module to simulate the process, and supringly with enough trials the probability winning when you switch converge to 0.6666.. which is equivalent to 2/3.
 
+# Getting started
+
+To get started running the simulation for this code, you might wanna clone or download the repository first just as shown below;
+
+
+
+# Open terminal in a project directory
+
+Open in a terminal in a project directory or you can just change a directory into the project directory and then run th app just as shown below;
+
+$-> cd Monty-Hall-Problem-Simulation-in-Python
+$ Monty-Hall-Problem-Simulation-in-Python-> python app.py
+
+
+# Do some simulations
+
+Once you run the application, a very simple gui similar to what shown below will pop up with an entry box, write in it no of sample to be simulated and then press enter and then program will evaluate total wins for case of same choice or switching
+![IMG_7930](https://github.com/ahkll/monty-hall-problem-Simulation-in-Python/assets/137267387/6b429623-1b7a-4863-bfe0-1c12118004d8)
+
+# Give it a star
+
+Did you find this information useful, then give it a star
+
+# Credits
+
+All the credits to ahkll
